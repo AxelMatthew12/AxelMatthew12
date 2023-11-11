@@ -9,6 +9,7 @@
 
 - 🔭 I’m looking to work on **BCA**
 - 👯 I’m looking to collaborate on **KARIER BCA PPTI**
+- My dream is to Go United States Of America and Swedia 👟
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
