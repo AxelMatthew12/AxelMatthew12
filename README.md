@@ -7,8 +7,8 @@
 
     
 
-- 🔭 I’m currently working on **SpaceX**
-- 👯 I’m looking to collaborate on **Paypal**
+- 🔭 I’m looking to work on **BCA**
+- 👯 I’m looking to collaborate on **KARIER BCA PPTI**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
