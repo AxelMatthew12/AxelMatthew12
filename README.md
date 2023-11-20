@@ -2,7 +2,7 @@
 <h3 align="center">AxelMatthew12</h3>
 
   <div class="images"></div>
-    <img src="https://media.tenor.com/Bvd6Js0jdi4AAAAd/freya-jkt48-jkt48freya.gif" height= "170" widht="140">
+    <img src="https://tenor.com/view/baka-anime-gif-22001672" height= "170" widht="140">
 
 
     
