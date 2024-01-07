@@ -2,8 +2,9 @@
 <h3 align="center">AxelMatthew12</h3>
 
   <div class="images"></div>
-    <img src="https://media1.tenor.com/m/mRqTQAzsc64AAAAC/silvia-valleria-komandan-birjon-no-1.gif" height= "350" widht="140" alight="center">
-
+    <div class="images-container">
+        <img src="https://media1.tenor.com/m/mRqTQAzsc64AAAAC/silvia-valleria-komandan-birjon-no-1.gif" height="150" width="140" align="center">
+        <img src="https://media1.tenor.com/m/VpRYjLmhjFwAAAAC/silvia-valleria-wlee.gif" height="160" width="300" align="center">
 
     
 
