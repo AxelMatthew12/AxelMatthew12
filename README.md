@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hemllo...<br><br>Axel is here.... <br>Im now learn programming on basic case<br>using Java,c++;<br><br>Im looking forward for collaborating and other to make another experience together<br>Thanks..
+Hemllo...<br><br>Axel is here.... <br>Im now learn programming on basic case<br>using Java<br><br>Im looking forward for collaborating and other to make another experience together<br>Thanks..
 
 
 ## 🌐 Socials:
