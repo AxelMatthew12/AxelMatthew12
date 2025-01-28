@@ -1,4 +1,7 @@
 # 💫 About Me:
+
+https://tenor.com/view/asuka-langley-gif-26113853
+
 Fullstack Web Developer (on progress) || Full system thinker (i like that) || beginners learn astronomy science technology<br>|| Beginner Mobile Developer ||<br><br>Hi.. My Name Axel now i step forward on 4th semesters .. my major is Informatic Technology<br><br>Nice to meet you all..
 
 
