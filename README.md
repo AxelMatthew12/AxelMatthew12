@@ -1,7 +1,7 @@
 # 💫 About Me:
 
 
-Fullstack Web Developer (on progress) || Full system thinker (i like that) || beginners learn astronomy science technology<br>|| Beginner Mobile Developer ||<br><br>Hi.. My Name Axel now i step forward on 4th semester .. my major is Informatic Technology<br><br>Nice to meet you all..
+Hi.. My Name Axel now i step forward on 4th semester .. my major is Informatic Technology<br><br>Nice to meet you all..
 
 
 ## 🌐 Socials:
