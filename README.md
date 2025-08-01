@@ -1,7 +1,7 @@
 # 💫 About Me:
 
 
-Hi.. My Name Axel now i step forward on 4th semester .. my major is Informatic Technology<br><br>Nice to meet you all..
+Hi.. My Name Axel now i step forward on 5th semester .. my major is Informatic Technology<br><br>Nice to meet you all..
 
 
 ## 🌐 Socials:
